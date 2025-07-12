@@ -16,9 +16,7 @@ It uses **Machine Learning (Random Forest Regressor)** to forecast solar power a
 ---
 
 ## 🗂️ Dataset
-- **Source:** NASA POWER Point Hourly Data *(My Own Dataset Of A location at ~22.05° N, 77.69° E → Central India,
--             likely Madhya Pradesh region specifically close to Betul / Hoshangabad / Nagpur border region,
--             depending on slight variations)*  
+- **Source:** NASA POWER Point Hourly Data *(My Own Dataset Of A location at Central India (approx. 22°N, 77°E) Madhya Pradesh)*  
 - **Duration:** Hourly data for the year 2023–2024 for a specific location.
 - **Features Used:**
   - `ALLSKY_SFC_SW_DWN`: Solar radiation at surface
