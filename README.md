@@ -4,11 +4,13 @@
 ##  Project Overview
 This project predicts **solar radiation** using hourly weather data and recommends the best time slots to charge **Electric Vehicles (EVs)** efficiently.  
 It uses **Machine Learning (Random Forest Regressor)** to forecast solar power and a simple threshold logic to advise charging time based on predicted availability.
-### My implementation is unique:
--✨ **Dataset:** a different  location.
--✨ custom lag features are different.
--✨ threshold & charging logic is different .
--✨ My own dashboard.
+### ✨ My Implementation is Unique
+
+- ✨ **Dataset:** A different location
+- ✨ Custom lag features are different
+- ✨ Threshold & charging logic is different
+- ✨ My own dashboard
+
 ---
 
 ## ⚙️ Tech Stack
